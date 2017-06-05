@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0615900b-7c6e-4df7-b2e9-60a2fa24368f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TTC_3_Conditionals_and_Boolean_Expressions/HW3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TTC_3_Conditionals_and_Boolean_Expressions/WhatNot3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TTC_4_Basic_Program_Development_and_Testing/WhatNot4.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HW3.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HW3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TTC_3_Conditionals_and_Boolean_Expressions/HW3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+            <state relative-caret-position="457">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WhatNot4.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TTC_4_Basic_Program_Development_and_Testing/WhatNot4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -47,6 +56,7 @@
         <option value="$PROJECT_DIR$/TTC_2_Variables_Operations_and_Input_Output/WhatNot2.py" />
         <option value="$PROJECT_DIR$/TTC_3_Conditionals_and_Boolean_Expressions/WhatNot3.py" />
         <option value="$PROJECT_DIR$/TTC_3_Conditionals_and_Boolean_Expressions/HW3.py" />
+        <option value="$PROJECT_DIR$/TTC_4_Basic_Program_Development_and_Testing/WhatNot4.py" />
       </list>
     </option>
   </component>
@@ -96,6 +106,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PythonTTC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonTTC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonTTC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TTC_4_Basic_Program_Development_and_Testing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -357,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496654525281</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TTC_3_Conditionals_and_Boolean_Expressions">
+      <created>1496658775174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496658775174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -389,7 +420,8 @@
   <component name="VcsManagerConfiguration">
     <option name="MAXIMUM_HISTORY_ROWS" value="10000" />
     <MESSAGE value="TTC_2_Variables_Operations_and_Input_Output" />
-    <option name="LAST_COMMIT_MESSAGE" value="TTC_2_Variables_Operations_and_Input_Output" />
+    <MESSAGE value="TTC_3_Conditionals_and_Boolean_Expressions" />
+    <option name="LAST_COMMIT_MESSAGE" value="TTC_3_Conditionals_and_Boolean_Expressions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -430,8 +462,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TTC_3_Conditionals_and_Boolean_Expressions/HW3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        <state relative-caret-position="457">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TTC_4_Basic_Program_Development_and_Testing/WhatNot4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
